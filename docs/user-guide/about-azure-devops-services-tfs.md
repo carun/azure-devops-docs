@@ -196,7 +196,7 @@ Projects in organizations that participate in this process-customization private
 
 ## Reporting
 
-Azure DevOps Services and Azure DevOps Server offer a many tools that give you insight into the progress and quality of your software projects. Included are the following tools:
+Azure DevOps Services and Azure DevOps Server offer many tools that give you insight into the progress and quality of your software projects. Included are the following tools:
 
 - [Dashboards](../report/dashboards/dashboards.md) and lightweight [charts](../report/dashboards/charts.md) that are available in both the cloud and on-premises platforms. These tools are easy to set up and use.
 
